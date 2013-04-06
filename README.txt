@@ -1,6 +1,8 @@
 ==Problem 1: Rosencrantz and Guildenstern flip Heads (Chapter 2, exercise 15, page 123)
 
-Write a program that simulates flipping a coin repeatedly and continues until three consecutive heads are tossed. At that point, your program should display the total number of coin flips that were made.
+Write a program that simulates flipping a coin repeatedly and continues until three
+consecutive heads are tossed. At that point, your program should display the total
+number of coin flips that were made.
 The following is one possible sample run of the program:
 
 ==Problem 2: Obenglobish (Chapter 3, exercise 16, page 152)
